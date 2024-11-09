@@ -1,0 +1,11 @@
+{
+    "name": "nagdy/wp-boost-buddy",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WpBoostBuddy\\": "includes/"
+        }
+    },
+    "require": {}
+}
